@@ -1,10 +1,14 @@
 {
   "name": "bluemix-request-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrapper for Bluemix requests using env vars",
   "main": "bluemix.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/runvnc/bluemix-request-simple"
   },
   "author": "",
   "license": "ISC"
