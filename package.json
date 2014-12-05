@@ -1,7 +1,7 @@
 {
-  "name": "bluemix",
+  "name": "bluemix-request-simple",
   "version": "1.0.0",
-  "description": "Wraper for Bluemix",
+  "description": "Wrapper for Bluemix requests using env vars",
   "main": "bluemix.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
